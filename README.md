@@ -1,2 +1,2 @@
 # sample-repo
-Gitpractice
+Gitpractice updated
